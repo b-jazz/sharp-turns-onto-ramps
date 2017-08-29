@@ -1,0 +1,4 @@
+fetcher/venv/*
+fetcher/*egg-info
+fetcher/__py
+fetcher/__pycache__
