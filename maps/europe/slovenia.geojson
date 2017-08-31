@@ -2550,6 +2550,22 @@
       "properties": {
         "marker-symbol": "s",
         "marker-size": "small",
+        "href": "http://www.openstreetmap.org/node/1355761731",
+        "marker-color": "#FF0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.056865,
+          45.896505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "s",
+        "marker-size": "small",
         "href": "http://www.openstreetmap.org/node/16325347",
         "marker-color": "#FF0000"
       },
@@ -2686,6 +2702,22 @@
         "coordinates": [
           16.009493,
           46.583265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "s",
+        "marker-size": "small",
+        "href": "http://www.openstreetmap.org/node/585311802",
+        "marker-color": "#FF0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.308553,
+          45.881701
         ]
       }
     },
@@ -7411,6 +7443,27 @@
         "type": "LineString",
         "coordinates": [
           [
+            15.056865,
+            45.896505
+          ],
+          [
+            15.056059,
+            45.899478
+          ],
+          [
+            15.055036,
+            45.898154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             14.649318,
             46.153452
           ],
@@ -7589,6 +7642,27 @@
           [
             16.010734,
             46.58485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.308553,
+            45.881701
+          ],
+          [
+            15.309049,
+            45.881845
+          ],
+          [
+            15.307621,
+            45.882651
           ]
         ]
       }
