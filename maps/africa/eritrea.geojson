@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          38.926012,
+          15.318912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/1600601831",
+        "marker-color": "#FF0000",
+        "marker-symbol": "s",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          39.471987,
+          15.608798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/1668975773",
+        "marker-color": "#FF0000",
+        "marker-symbol": "s",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          38.926746,
+          15.31892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/287498100",
+        "marker-color": "#FFA500",
+        "marker-symbol": "s",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            38.926012,
+            15.318912
+          ],
+          [
+            38.926389,
+            15.318517
+          ],
+          [
+            38.926653,
+            15.318842
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            39.471987,
+            15.608798
+          ],
+          [
+            39.472431,
+            15.609113
+          ],
+          [
+            39.47187,
+            15.608969
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            38.926746,
+            15.31892
+          ],
+          [
+            38.926322,
+            15.319427
+          ],
+          [
+            38.925813,
+            15.319018
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    }
+  ]
+}
