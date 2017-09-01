@@ -1,26 +1,24 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "marker-symbol": "s",
+        "href": "http://www.openstreetmap.org/node/1242674392"
+      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -15.648997,
           11.887282
-        ]
+        ],
+        "type": "Point"
       },
-      "properties": {
-        "marker-symbol": "s",
-        "marker-size": "small",
-        "href": "http://www.openstreetmap.org/node/1242674392",
-        "marker-color": "#FF0000"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {},
       "geometry": {
-        "type": "LineString",
         "coordinates": [
           [
             -15.648997,
@@ -34,9 +32,11 @@
             -15.649605,
             11.887325
           ]
-        ]
+        ],
+        "type": "LineString"
       },
-      "properties": {}
+      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
