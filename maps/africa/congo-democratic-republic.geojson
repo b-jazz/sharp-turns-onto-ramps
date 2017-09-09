@@ -1,12 +1,6 @@
 {
   "features": [
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
       "geometry": {
         "coordinates": [
           30.689787,
@@ -14,47 +8,15 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
       "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
         "marker-size": "small",
-        "marker-color": "#FFA500",
         "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4220515302"
-      },
-      "geometry": {
-        "coordinates": [
-          15.292173,
-          -4.348102
-        ],
-        "type": "Point"
+        "marker-color": "#FFFF00"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/3675785003"
-      },
-      "geometry": {
-        "coordinates": [
-          15.257295,
-          -4.337377
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
       "geometry": {
         "coordinates": [
           30.689787,
@@ -62,191 +24,15 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
       "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
         "marker-size": "small",
-        "marker-color": "#FFFF00",
         "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
-      "geometry": {
-        "coordinates": [
-          30.689864,
-          3.173308
-        ],
-        "type": "Point"
+        "marker-color": "#FFFF00"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
-      "geometry": {
-        "coordinates": [
-          30.689864,
-          3.173308
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFA500",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4545468282"
-      },
-      "geometry": {
-        "coordinates": [
-          15.306275,
-          -4.333972
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
-      "geometry": {
-        "coordinates": [
-          30.689905,
-          3.173607
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFA500",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/2222296589"
-      },
-      "geometry": {
-        "coordinates": [
-          30.907952,
-          3.230488
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/1915634688"
-      },
-      "geometry": {
-        "coordinates": [
-          29.730709,
-          -7.070722
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/435840423"
-      },
-      "geometry": {
-        "coordinates": [
-          15.344453,
-          -4.374916
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
-      "geometry": {
-        "coordinates": [
-          30.690046,
-          3.173345
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
-      "geometry": {
-        "coordinates": [
-          30.689905,
-          3.173607
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4244608230"
-      },
-      "geometry": {
-        "coordinates": [
-          30.690046,
-          3.173345
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFA500",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4545468282"
-      },
-      "geometry": {
-        "coordinates": [
-          15.306275,
-          -4.333972
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FF0000",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/2222535640"
-      },
       "geometry": {
         "coordinates": [
           30.872098,
@@ -254,31 +40,31 @@
         ],
         "type": "Point"
       },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/2222535640",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FF0000"
+      },
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFA500",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4554136556"
-      },
       "geometry": {
         "coordinates": [
-          15.254998,
-          -4.442955
+          30.907952,
+          3.230488
         ],
         "type": "Point"
       },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/2222296589",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFA500"
+      },
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFA500",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/4565333683"
-      },
       "geometry": {
         "coordinates": [
           23.114337,
@@ -286,42 +72,223 @@
         ],
         "type": "Point"
       },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4565333683",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFA500"
+      },
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FFA500",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/2222296589"
-      },
       "geometry": {
         "coordinates": [
-          30.908459,
-          3.230711
+          29.730709,
+          -7.070722
         ],
         "type": "Point"
       },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/1915634688",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#FF0000",
-        "marker-symbol": "s",
-        "href": "http://www.openstreetmap.org/node/2222535640"
-      },
       "geometry": {
         "coordinates": [
-          30.871804,
-          3.277917
+          15.254998,
+          -4.442955
         ],
         "type": "Point"
       },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4554136556",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFA500"
+      },
       "type": "Feature"
     },
     {
-      "properties": {},
+      "geometry": {
+        "coordinates": [
+          30.689905,
+          3.173607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.689905,
+          3.173607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.690046,
+          3.173345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.306275,
+          -4.333972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4545468282",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFA500"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.689864,
+          3.173308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.689864,
+          3.173308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.344453,
+          -4.374916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/435840423",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.690046,
+          3.173345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4244608230",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.306275,
+          -4.333972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4545468282",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFA500"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.257295,
+          -4.337377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/3675785003",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFFF00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.292173,
+          -4.348102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "href": "http://www.openstreetmap.org/node/4220515302",
+        "marker-size": "small",
+        "marker-symbol": "s",
+        "marker-color": "#FFA500"
+      },
+      "type": "Feature"
+    },
+    {
       "geometry": {
         "coordinates": [
           [
@@ -339,52 +306,10 @@
         ],
         "type": "LineString"
       },
+      "properties": {},
       "type": "Feature"
     },
     {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            15.292173,
-            -4.348102
-          ],
-          [
-            15.292027,
-            -4.347486
-          ],
-          [
-            15.291537,
-            -4.347831
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            15.257295,
-            -4.337377
-          ],
-          [
-            15.256933,
-            -4.337571
-          ],
-          [
-            15.257076,
-            -4.337794
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
@@ -402,241 +327,10 @@
         ],
         "type": "LineString"
       },
+      "properties": {},
       "type": "Feature"
     },
     {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.689864,
-            3.173308
-          ],
-          [
-            30.689933,
-            3.173427
-          ],
-          [
-            30.690046,
-            3.173345
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.689864,
-            3.173308
-          ],
-          [
-            30.689933,
-            3.173427
-          ],
-          [
-            30.690046,
-            3.173345
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            15.306275,
-            -4.333972
-          ],
-          [
-            15.306279,
-            -4.333714
-          ],
-          [
-            15.306757,
-            -4.333818
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.689905,
-            3.173607
-          ],
-          [
-            30.689933,
-            3.173427
-          ],
-          [
-            30.689787,
-            3.173451
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.907952,
-            3.230488
-          ],
-          [
-            30.90792,
-            3.230958
-          ],
-          [
-            30.908459,
-            3.230711
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            29.730709,
-            -7.070722
-          ],
-          [
-            29.730717,
-            -7.070597
-          ],
-          [
-            29.730553,
-            -7.070641
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            15.344453,
-            -4.374916
-          ],
-          [
-            15.344336,
-            -4.375029
-          ],
-          [
-            15.344643,
-            -4.375191
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.690046,
-            3.173345
-          ],
-          [
-            30.689933,
-            3.173427
-          ],
-          [
-            30.689864,
-            3.173308
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.689905,
-            3.173607
-          ],
-          [
-            30.689933,
-            3.173427
-          ],
-          [
-            30.689787,
-            3.173451
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            30.690046,
-            3.173345
-          ],
-          [
-            30.689933,
-            3.173427
-          ],
-          [
-            30.689864,
-            3.173308
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            15.306275,
-            -4.333972
-          ],
-          [
-            15.306279,
-            -4.333714
-          ],
-          [
-            15.306757,
-            -4.333818
-          ]
-        ],
-        "type": "LineString"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
@@ -654,31 +348,31 @@
         ],
         "type": "LineString"
       },
+      "properties": {},
       "type": "Feature"
     },
     {
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
-            15.254998,
-            -4.442955
+            30.907952,
+            3.230488
           ],
           [
-            15.255586,
-            -4.442699
+            30.90792,
+            3.230958
           ],
           [
-            15.255347,
-            -4.442558
+            30.908459,
+            3.230711
           ]
         ],
         "type": "LineString"
       },
+      "properties": {},
       "type": "Feature"
     },
     {
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
@@ -696,48 +390,280 @@
         ],
         "type": "LineString"
       },
+      "properties": {},
       "type": "Feature"
     },
     {
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
-            30.908459,
-            3.230711
+            29.730709,
+            -7.070722
           ],
           [
-            30.90792,
-            3.230958
+            29.730717,
+            -7.070597
           ],
           [
-            30.907952,
-            3.230488
+            29.730553,
+            -7.070641
           ]
         ],
         "type": "LineString"
       },
+      "properties": {},
       "type": "Feature"
     },
     {
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
-            30.871804,
-            3.277917
+            15.254998,
+            -4.442955
           ],
           [
-            30.87165,
-            3.278343
+            15.255586,
+            -4.442699
           ],
           [
-            30.872098,
-            3.278085
+            15.255347,
+            -4.442558
           ]
         ],
         "type": "LineString"
       },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            30.689905,
+            3.173607
+          ],
+          [
+            30.689933,
+            3.173427
+          ],
+          [
+            30.689787,
+            3.173451
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            30.689905,
+            3.173607
+          ],
+          [
+            30.689933,
+            3.173427
+          ],
+          [
+            30.689787,
+            3.173451
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            30.690046,
+            3.173345
+          ],
+          [
+            30.689933,
+            3.173427
+          ],
+          [
+            30.689864,
+            3.173308
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            15.306275,
+            -4.333972
+          ],
+          [
+            15.306279,
+            -4.333714
+          ],
+          [
+            15.306757,
+            -4.333818
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            30.689864,
+            3.173308
+          ],
+          [
+            30.689933,
+            3.173427
+          ],
+          [
+            30.690046,
+            3.173345
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            30.689864,
+            3.173308
+          ],
+          [
+            30.689933,
+            3.173427
+          ],
+          [
+            30.690046,
+            3.173345
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            15.344453,
+            -4.374916
+          ],
+          [
+            15.344336,
+            -4.375029
+          ],
+          [
+            15.344643,
+            -4.375191
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            30.690046,
+            3.173345
+          ],
+          [
+            30.689933,
+            3.173427
+          ],
+          [
+            30.689864,
+            3.173308
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            15.306275,
+            -4.333972
+          ],
+          [
+            15.306279,
+            -4.333714
+          ],
+          [
+            15.306757,
+            -4.333818
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            15.257295,
+            -4.337377
+          ],
+          [
+            15.256933,
+            -4.337571
+          ],
+          [
+            15.257076,
+            -4.337794
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            15.292173,
+            -4.348102
+          ],
+          [
+            15.292027,
+            -4.347486
+          ],
+          [
+            15.291537,
+            -4.347831
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {},
       "type": "Feature"
     }
   ],
