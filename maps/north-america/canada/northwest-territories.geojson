@@ -1,60 +1,42 @@
 {
   "features": [
     {
-      "geometry": {
-        "coordinates": [
-          -114.40413,
-          62.469745
-        ],
-        "type": "Point"
-      },
       "properties": {
+        "marker-symbol": "s",
         "href": "http://www.openstreetmap.org/node/2493365046",
         "marker-size": "small",
-        "marker-symbol": "s",
-        "marker-color": "#FFA500"
+        "marker-color": "#FF0000"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -114.402831,
           62.47009
-        ],
-        "type": "Point"
-      },
+        ]
+      }
+    },
+    {
       "properties": {
+        "marker-symbol": "s",
         "href": "http://www.openstreetmap.org/node/2493365046",
         "marker-size": "small",
-        "marker-symbol": "s",
-        "marker-color": "#FF0000"
+        "marker-color": "#FFA500"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          [
-            -114.40413,
-            62.469745
-          ],
-          [
-            -114.403718,
-            62.470942
-          ],
-          [
-            -114.401507,
-            62.470443
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {},
-      "type": "Feature"
+          -114.40413,
+          62.469745
+        ]
+      }
     },
     {
+      "properties": {},
+      "type": "Feature",
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             -114.402831,
@@ -68,11 +50,29 @@
             -114.401507,
             62.470443
           ]
-        ],
-        "type": "LineString"
-      },
+        ]
+      }
+    },
+    {
       "properties": {},
-      "type": "Feature"
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.40413,
+            62.469745
+          ],
+          [
+            -114.403718,
+            62.470942
+          ],
+          [
+            -114.401507,
+            62.470443
+          ]
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
